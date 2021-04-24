@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ukvb6oDGkvwxbrfO6Y2yKRS7USzFAX1457aDb5i1gzb6E1qjjDqECl2Q9DAjG2XitR9DTfiARJw14dhNXSb5Tg==",
+  "dgSpecHash": "vSEPuqKs43YrdhDnTSDeVmAMWtIWE06xQUGkHbeU7fkJW5QykZFpDcWh3VNr7JPUVmIlHV/UDM8R62rzRSOWrw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jenifer\\Desktop\\GITHUB ANALISIS\\ProyectoHogarBaikCartago\\hogarbaik\\hogarbaik.csproj",
+  "projectFilePath": "C:\\Users\\Jenifer\\Desktop\\Verificar\\ProyectoHogarBaikCartago\\hogarbaik\\hogarbaik.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jenifer\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Jenifer\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
