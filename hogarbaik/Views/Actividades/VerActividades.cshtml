@@ -1,0 +1,111 @@
+﻿
+@{
+    ViewData["Title"] = "VerActividades";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>VerActividades</h2>
+
+<div class="content-page">
+    <div class="content">
+
+        <!-- Start Content-->
+        <div class="container-fluid">
+
+
+
+
+            <div class="row">
+                <div class="col-12">
+                    <div class="card-box">
+
+                        <div class="row">
+                            <div class="col-sm-10">
+                                <h4>Actividades disponibles</h4>
+                            </div>
+
+                            <div class="col-sm-2">
+
+                                <input id="Submit1" type="submit" value="Agregar actividad" class="btn btn-bordered-success waves-effect  width-md waves-light" onclick="location.href='/Actividades/Actividades'" />
+
+                            </div>
+
+                        </div>
+                        <br />
+                        <table id="datatable-buttons" class="table table-striped table-bordered dt-responsive nowrap">
+                            <thead>
+                                <tr>
+                                    <th style="text-align:center">Nombre del evento</th>
+                                    <th style="text-align:center">Lugar</th>
+                                    <th style="text-align:center">Descripcion</th>
+                                    <th style="text-align:center">Gestionar actividad</th>
+                                    <th style="text-align:center">Hora del evento</th>
+                                    <th style="text-align:center">Teléfono</th>
+                                    <th style="text-align:center">Fecha del evento</th>
+
+                                </tr>
+                            </thead>
+
+
+                            <tbody>
+                                <tr>
+                                    <td style="text-align:center">Carrera</td>
+                                    <td style="text-align:center">Plaza de deportes Guadalupe</td>
+                                    <td style="text-align:center">Primer carrera del hogar Baik para recaudar fondos para los regalos de navidad de los niños, no te lo pierdas</td>
+                                    <td style="text-align:center">
+                                        <input id="btnGestionarActividad" type="submit" value="Gestionar actividad" class="btn btn-bordered-info waves-effect  width-md waves-light" onclick="location.href= '/Actividades/EditarActividades'" />
+                                    </td>
+
+                                    <td style="text-align:center">8:00 am</td>
+                                    <td style="text-align:center">2525-8213</td>
+                                    <td style="text-align:center">25/11/2021</td>
+
+
+
+                                </tr>
+                                <tr>
+                                    <td style="text-align:center">Bingo</td>
+                                    <td style="text-align:center">Hogar Baik</td>
+                                    <td style="text-align:center">Primer bingo del hogar Baik para recaudar fondos para el nuevo dormitorio de los niños, te esperamos!</td>
+                                    <td style="text-align:center">
+                                        <input id="btnGestionarActividad" type="submit" value="Gestionar actividad" class="btn btn-bordered-info waves-effect  width-md waves-light" onclick="location.href= '/Actividades/EditarActividades'" />
+                                    </td>
+
+                                    <td style="text-align:center">6:00 pm</td>
+                                    <td style="text-align:center">2525-8213</td>
+                                    <td style="text-align:center">25/8/2021</td>
+
+                                </tr>
+                                <tr>
+                                    <td style="text-align:center">Ventas dia de la madre</td>
+                                    <td style="text-align:center">Hogar Baik</td>
+                                    <td style="text-align:center">
+                                        Disfrute de ricos platillos preparados por los vecinos de la comunidad de Guadalupe de Cartago, se realizarán rifas
+                                        para recaudar fondos al Centro.
+                                        ¡Te esperamos!
+                                    </td>
+                                    <td style="text-align:center">
+                                        <input id="btnGestionarActividad" type="submit" value="Gestionar actividad" class="btn btn-bordered-info waves-effect  width-md waves-light" onclick="location.href= '/Actividades/EditarActividades'" />
+                                    </td>
+
+                                    <td style="text-align:center">11:00 am</td>
+                                    <td style="text-align:center">2525-8213</td>
+                                    <td style="text-align:center">15/8/2021</td>
+
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+            <!-- end row -->
+
+
+
+
+        </div> <!-- container-fluid -->
+
+    </div> <!-- content -->
+
+
+</div>

@@ -1,0 +1,84 @@
+﻿
+@{
+    ViewData["Title"] = "Empleado";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!-- Start Page Content here -->
+<!-- ============================================================== -->
+
+<div class="content-page">
+    <div class="content">
+
+        <!-- Start Content-->
+        <div class="container-fluid">
+
+
+
+
+            <div class="row">
+                <div class="col-12">
+                    <div class="card-box">
+
+                        <div class="row">
+                            <div class="col-sm-10">
+                                <h4>Personal Hogar Baik</h4>
+                            </div>
+
+                            <div class="col-sm-2">
+
+                                <input id="Submit1" type="submit" value="Agregar" class="btn btn-bordered-success waves-effect  width-md waves-light" onclick="location.href='/Personal/FormularioEmpleado'" />                              
+                            </div>
+
+                        </div>
+                        <br />
+                        <table id="datatable-buttons" class="table table-striped table-bordered dt-responsive nowrap">
+                            <thead>
+                                <tr>
+                                    <th style="text-align:center">Cédula</th>
+                                    <th style="text-align:center">Nombre</th>
+                                    <th style="text-align:center">Primer Apellido</th>
+                                    <th style="text-align:center">Segundo Apellido</th>
+                                    <th style="text-align:center">Teléfono</th>
+                                    <th style="text-align:center">Cargo</th>
+                                    <th style="text-align:center">Salario</th>
+                                    <th style="text-align:center"></th>
+
+                                </tr>
+                            </thead>
+
+
+                            <tbody>
+                                <tr>
+                                    <td style="text-align:center">303330333</td>
+                                    <td style="text-align:center">Marta</td>
+                                    <td style="text-align:center">Mena</td>
+                                    <td style="text-align:center">Fernandez</td>
+                                    <td style="text-align:center">2222-2222</td>
+                                    <td style="text-align:center">Directora</td>
+                                    <td style="text-align:center">350000</td>
+                                    <td style="text-align:center">
+                                        <input id="btnVerInventario" type="submit" value="Ver Empleado" class="btn btn-bordered-info waves-effect  width-md waves-light" onclick="location.href='/Personal/ModificarEmpleado'" />
+                                    </td>
+
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+            <!-- end row -->
+
+
+
+
+        </div> <!-- container-fluid -->
+
+    </div> <!-- content -->
+
+
+</div>
+
+<!-- ============================================================== -->
+<!-- End Page content -->
+<!-- ============================================================== -->

@@ -1,0 +1,100 @@
+﻿
+@{
+    ViewData["Title"] = "FormularioProyecto";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="content-page">
+    <div class="content">
+
+        <!-- Start Content-->
+        <div class="container-fluid">
+
+            <div class="row">
+                <div class="col-12">
+                    <div class="card-box">
+                        <h4>Formulario de proyecto</h4>
+
+                        <br />
+
+                        <div class="row">
+                            <div class="col-12">
+                                <div class="p-2">
+                                    <form class="form-horizontal" role="form">
+
+                                        <div class="form-group row">
+                                            <label class="col-md-2 col-form-label" for="simpleinput">Código</label>
+                                            <div class="col-md-10">
+                                                <input type="text" id="simpleinput" class="form-control" placeholder="Digite el código" required>
+                                            </div>
+                                        </div>
+
+                                        <div class="form-group row">
+                                            <label class="col-md-2 col-form-label" for="example-textarea">Nombre del proyecto</label>
+                                            <div class="col-md-10">
+                                                <input type="text" id="simpleinput" class="form-control" placeholder="Ingrese el nombre" required>
+                                            </div>
+                                        </div>
+
+                                        <div class="form-group row">
+                                            <label class="col-md-2 col-form-label" for="example-textarea">Descripción</label>
+                                            <div class="col-md-10">
+                                                <textarea class="form-control" rows="5" id="example-textarea" placeholder="Ingrese la descripción" required></textarea>
+                                            </div>
+                                        </div>
+
+                                        <div class="form-group row">
+                                            <label class="col-md-2 col-form-label" for="example-textarea">Nombre del responsable</label>
+                                            <div class="col-md-10">
+                                                <input type="text" id="simpleinput" class="form-control" placeholder="Ingrese el nombre" required>
+                                            </div>
+                                        </div>
+
+                                        <div class="form-group row">
+                                            <label class="col-md-2 col-form-label" for="example-textarea">Monto</label>
+                                            <div class="col-md-10">
+                                                <input type="number" id="simpleinput" class="form-control" placeholder="Digite el monto" required>
+                                            </div>
+                                        </div>
+
+
+                                        <div class="form-group row">
+                                            <label class="col-md-2 col-form-label" for="example-date">Fecha de inicio</label>
+                                            <div class="col-md-10">
+                                                <input class="form-control" id="example-date" type="date" name="date" required>
+                                            </div>
+                                        </div>
+
+
+
+
+                                        <br />
+                                        <div class="form-group row">
+                                            <div class="col-md-2">
+
+                                            </div>
+                                            <div class="col-md-10">
+
+                                                <input id="sa-success" type="submit" value="Agregar" class="btn btn-bordered-success waves-effect  width-md waves-light"  onclick="location.href='/Proyectos/Proyectos'"  />
+                                            </div>
+                                        </div>
+
+
+                                    </form>
+                                </div>
+                            </div>
+
+                        </div>
+                        <!-- end row -->
+
+                    </div> <!-- end card-box -->
+                </div><!-- end col -->
+            </div>
+            <!-- end row -->
+        </div> <!-- container-fluid -->
+
+    </div> <!-- content -->
+
+
+</div>
+

@@ -1,0 +1,89 @@
+﻿
+@{
+    ViewData["Title"] = "Inventario Limpieza";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+        <!-- Start Page Content here -->
+        <!-- ============================================================== -->
+
+        <div class="content-page">
+            <div class="content">
+
+                <!-- Start Content-->
+                <div class="container-fluid">
+
+                    <div class="row">
+                        <div class="col-12">
+                            <div class="card-box">
+
+                                <div class="row">
+                                    <div class="col-sm-10">
+                                        <h4>Inventario de Limpieza</h4>
+                                    </div>
+
+                                    <div class="col-sm-2">
+                                        <input id="Submit1" type="submit" value="Agregar" class="btn btn-bordered-success waves-effect  width-md waves-light" onclick="location.href='/Inventario/FormularioLimpieza'" />
+                                        
+                                    </div>
+
+                                </div>
+                                <br />
+                                <table id="datatable-buttons" class="table table-striped table-bordered dt-responsive nowrap">
+                                    <thead>
+                                        <tr>
+                                            <th style="text-align:center">Código</th>
+                                            <th style="text-align:center">Descripción</th>
+                                            <th style="text-align:center">Cantidad</th>
+                                            <th style="text-align:center">Fecha de Ingreso</th>
+                                            <th style="text-align:center">Nombre de persona que entrega</th>
+                                            <th style="text-align:center">Nombre de persona que recibe</th>
+                                            <th style="text-align:center">Adquisición</th>
+                                            <th style="text-align:center"></th>
+
+                                        </tr>
+                                    </thead>
+
+
+                                    <tbody>
+                                        <tr>
+                                            <td style="text-align:center">01</td>
+                                            <td style="text-align:center">Jabón en polvo</td>
+                                            <td style="text-align:center">10</td>
+                                            <td style="text-align:center">25/03/2021</td>
+                                            <td style="text-align:center">Mario</td>
+                                            <td style="text-align:center">Karla</td>
+                                            <td style="text-align:center">Donación</td>
+                                            <td style="text-align:center">
+                                                <input id="btnVerInventario" type="submit" value="Ver Inventario" class="btn btn-bordered-info waves-effect  width-md waves-light" onclick="location.href='/Inventario/ModificarLimpieza'" />
+                                  
+                                            </td>
+
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- end row -->
+
+
+
+
+                </div> <!-- container-fluid -->
+
+            </div> <!-- content -->
+
+
+        </div>
+
+        <!-- ============================================================== -->
+        <!-- End Page content -->
+        <!-- ============================================================== -->
+
+
+   
+
+

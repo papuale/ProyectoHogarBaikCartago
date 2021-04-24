@@ -1,0 +1,197 @@
+﻿
+@{
+    ViewData["Title"] = "Educativo";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<br />
+
+<div class="content-page">
+    <div class="content">
+
+        <!-- Start Content-->
+        <div>
+            <div class="container-fluid">
+
+                <!-- Información Educativa del Niño-->
+                <div class="container-fluid">                
+                    <div class="row">
+                        <div class="col-12">
+                            <div class="card-box">
+                                <div class="d-print-none">
+                                    <div class="float-right">
+                                        <!--<a href="javascript:window.print()" class="btn btn-dark waves-effect waves-light"><i class="fa fa-print"></i></a> -->
+                                        <a href="https://localhost:44364/Ninos/VerExpediente" class="btn btn-primary waves-effect waves-light">General</a>
+                                        <a href="https://localhost:44364/Ninos/Medico" class="btn btn-primary waves-effect waves-light">Médico</a>
+                                    </div>
+                                    <div class="clearfix"></div>
+                                </div>
+                                <h4 class="header-title">Expediente Educativo</h4>
+                                <div class="row">
+                                    <div class="col-12">
+                                        <div class="p-2">
+                                            <form class="form-horizontal" role="form">
+                                                <div class="form-group row">
+                                                    <label class="col-md-2 col-form-label" for="cedulaNino">Número de cédula</label>
+                                                    <div class="col-md-10">
+                                                        <input type="text" id="cedulaNino" class="form-control" placeholder="Ingrese el número de cédula">
+                                                    </div>
+                                                </div>
+                                                <div class="form-group row">
+                                                    <label class="col-md-2 col-form-label">Nombre</label>
+                                                    <div class="col-md-10">
+                                                        <input type="text" class="form-control" disabled="" value="">
+                                                    </div>
+                                                </div>
+                                                <div class="form-group row">
+                                                    <label class="col-md-2 col-form-label">Primer apellido</label>
+                                                    <div class="col-md-10">
+                                                        <input type="text" class="form-control" disabled="" value="">
+                                                    </div>
+                                                </div>
+                                                <div class="form-group row">
+                                                    <label class="col-md-2 col-form-label">Segundo apellido</label>
+                                                    <div class="col-md-10">
+                                                        <input type="text" class="form-control" disabled="" value="">
+                                                    </div>
+                                                </div>
+                                                <div class="form-group row">
+                                                    <label class="col-md-2 col-form-label">Fecha de ingreso</label>
+                                                    <div class="col-md-10">
+                                                        <input type="text" class="form-control" disabled="" value="">
+                                                    </div>
+                                                </div>
+                                                <div class="form-group row">
+                                                    <label class="col-md-2 col-form-label">Fecha de egreso</label>
+                                                    <div class="col-md-10">
+                                                        <input type="text" class="form-control" disabled="" value="">
+                                                    </div>
+                                                </div>
+                                                <div class="form-group row">
+                                                    <label class="col-md-2 col-form-label" for="lateralidad">Lateralidad</label>
+                                                    <div class="col-md-10">
+                                                        <input type="text" id="lateralidad" class="form-control" placeholder="Ingrese la lateralidad">
+                                                    </div>
+                                                </div>
+                                                <div class="form-group row">
+                                                    <label class="col-md-2 col-form-label" for="procesoEducativo">Proceso educativo en curso</label>
+                                                    <div class="col-md-10">
+                                                        <textarea class="form-control" rows="5" id="procesoEducativo"></textarea>
+                                                    </div>
+                                                </div>
+                                                <div class="form-group row">
+                                                    <label class="col-md-2 col-form-label">Padece una discapacidad?</label>
+                                                    <div class="col-md-10">
+                                                        <select class="form-control">
+                                                            <option>Seleccione una opción</option>
+                                                            <option>Si</option>
+                                                            <option>No</option>
+                                                        </select>
+                                                    </div>
+                                                </div>
+                                                <div class="form-group row">
+                                                    <label class="col-md-2 col-form-label" for="discapacidad">Discapacidad</label>
+                                                    <div class="col-md-10">
+                                                        <input type="text" id="discapacidad" class="form-control" placeholder="Ingrese la discapacidad que padece">
+                                                    </div>
+                                                </div>
+                                                <div class="form-group row">
+                                                    <label class="col-md-2 col-form-label">Utiliza un código de comunicación?</label>
+                                                    <div class="col-md-10">
+                                                        <select class="form-control">
+                                                            <option>Seleccione una opción</option>
+                                                            <option>Si</option>
+                                                            <option>No</option>
+                                                        </select>
+                                                    </div>
+                                                </div>
+                                                <div class="form-group row">
+                                                    <label class="col-md-2 col-form-label" for="codigoComunicacion">Especifique el código</label>
+                                                    <div class="col-md-10">
+                                                        <textarea class="form-control" rows="5" id="codigoComunicacion"></textarea>
+                                                    </div>
+                                                </div>
+                                                <h4 class="header-title mt-0">Necesidades y apoyos especiales</h4>
+                                                <div class="checkbox checkbox-info">
+                                                    <input id="terapiaLenguaje" type="checkbox">
+                                                    <label for="terapiaLenguaje">
+                                                        Terapia de lenguaje
+                                                    </label>
+                                                </div>
+                                                <div class="checkbox checkbox-info">
+                                                    <input id="audicionLenguaje" type="checkbox">
+                                                    <label for="audicionLenguaje">
+                                                        Audición y lenguaje
+                                                    </label>
+                                                </div>
+                                                <div class="checkbox checkbox-info">
+                                                    <input id="asistenteAula" type="checkbox">
+                                                    <label for="asistenteAula">
+                                                        Asistente de aula
+                                                    </label>
+                                                </div>
+                                                <div class="checkbox checkbox-info">
+                                                    <input id="discapacidadMultiple" type="checkbox">
+                                                    <label for="discapacidadMultiple">
+                                                        Discapacidad múltiple
+                                                    </label>
+                                                </div>
+                                                <div class="checkbox checkbox-info">
+                                                    <input id="discapacidadVisual" type="checkbox">
+                                                    <label for="discapacidadVisual">
+                                                        Discapacidad visual
+                                                    </label>
+                                                </div>
+                                                <div class="checkbox checkbox-info">
+                                                    <input id="terapiaFisica" type="checkbox">
+                                                    <label for="terapiaFisica">
+                                                        Terapia física
+                                                    </label>
+                                                </div>
+                                                <div class="checkbox checkbox-info">
+                                                    <input id="terapiaOcupacional" type="checkbox">
+                                                    <label for="terapiaOcupacional">
+                                                        Terapia ocupacional
+                                                    </label>
+                                                </div>
+                                                <div class="checkbox checkbox-info">
+                                                    <input id="problemasAprendizaje" type="checkbox">
+                                                    <label for="problemasAprendizaje">
+                                                        Problemas de aprendizaje
+                                                    </label>
+                                                </div>
+                                                <div class="checkbox checkbox-info">
+                                                    <input id="emocionesConducta" type="checkbox">
+                                                    <label for="emocionesConducta">
+                                                        Problemas emocionales y de conducta
+                                                    </label>
+                                                </div>
+                                                </br>
+                                                <div class="form-group row">
+                                                    <label class="col-md-2 col-form-label" for="archivoEducativo">Adjunte un archivo</label>
+                                                    <div class="col-md-10">
+                                                        <input type="file" class="form-control" id="archivoEducativo">
+                                                    </div>
+                                                </div>
+                                                </br>
+                                                <div class="form-group row">
+                                                    <div class="col-md-2">
+                                                    </div>
+                                                    <div class="col-md-10">
+                                                        <input id="btnCambiosMedicos" type="submit" value="Guardar cambios" class="btn btn-bordered-success waves-effect  width-md waves-light" />
+                                                    </div>
+                                                </div>
+                                            </form>
+                                        </div>
+                                        <!-- end row -->
+                                    </div> <!-- end card-box -->
+                                </div><!-- end col -->
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+

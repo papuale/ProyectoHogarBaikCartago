@@ -1,0 +1,77 @@
+﻿
+@{
+    ViewData["Title"] = "NinosInactivos";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+        <!-- Start Page Content here -->
+        <!-- ============================================================== -->
+
+        <div class="content-page">
+            <div class="content">
+
+                <!-- Start Content-->
+                <div class="container-fluid">
+                    <div class="row">
+                        <div class="col-12">
+                            <div class="card-box">
+                                <div class="row">
+                                    <div class="col-sm-10">
+                                        <h4>Niños Inactivos</h4>
+                                    </div>
+
+                                    <div class="col-sm-2">
+                                    </div>
+
+                                </div>
+                                <br />
+                                <table id="datatable-buttons" class="table table-striped table-bordered dt-responsive nowrap">
+                                    <thead>
+                                        <tr>
+                                            <th style="text-align:center">Cédula</th>
+                                            <th style="text-align:center">Nombre</th>
+                                            <th style="text-align:center">Primer Apellido</th>
+                                            <th style="text-align:center">Segundo Apellido</th>
+                                            <th style="text-align:center">Fecha de Nacimiento</th>
+                                            <th style="text-align:center">Oficina que inicia el caso</th>
+                                            <th style="text-align:center">Fecha de Egreso</th>
+                                            <th style="text-align:center">Responsable</th>
+                                            <th style="text-align:center"></th>
+                                        </tr>
+                                    </thead>
+
+
+                                    <tbody>
+                                        <tr>
+                                            <td style="text-align:center">105710232</td>
+                                            <td style="text-align:center">Francini</td>
+                                            <td style="text-align:center">Vives</td>
+                                            <td style="text-align:center">Obando</td>
+                                            <td style="text-align:center">09/02/2013</td>
+                                            <td style="text-align:center">Curridabat</td>
+                                            <td style="text-align:center">28/11/2018</td>
+                                            <td style="text-align:center">María Isabel Navarro Ruiz</td>
+                                            <td style="text-align:center">
+                                                <input id="btnVerExpediente" type="submit" value="Ver Expediente" class="btn btn-bordered-info waves-effect  width-md waves-light" onclick="location.href='/Ninos/VerExpediente'" />
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- end row -->
+
+
+
+
+                </div> <!-- container-fluid -->
+
+            </div> <!-- content -->
+
+
+        </div>
+        <!-- ============================================================== -->
+        <!-- End Page content -->
+        <!-- ============================================================== -->

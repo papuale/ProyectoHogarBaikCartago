@@ -1,0 +1,115 @@
+﻿
+@{
+    ViewData["Title"] = "EditarActividades";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<link href="~/assets/libs/bootstrap-tagsinput/bootstrap-tagsinput.css" rel="stylesheet" />
+<link href="~/assets/libs/switchery/switchery.min.css" rel="stylesheet" type="text/css" />
+
+<link href="~/assets/libs/multiselect/multi-select.css" rel="stylesheet" type="text/css" />
+<link href="~/assets/libs/select2/select2.min.css" rel="stylesheet" type="text/css" />
+<link href="~/assets/libs/bootstrap-touchspin/jquery.bootstrap-touchspin.min.css" rel="stylesheet" />
+<link href="~/assets/libs/switchery/switchery.min.css" rel="stylesheet" />
+<link href="~/assets/libs/bootstrap-timepicker/bootstrap-timepicker.min.css" rel="stylesheet">
+<link href="~/assets/libs/bootstrap-colorpicker/bootstrap-colorpicker.min.css" rel="stylesheet">
+<link href="~/assets/libs/bootstrap-datepicker/bootstrap-datepicker.css" rel="stylesheet">
+<link href="~/assets/libs/bootstrap-daterangepicker/daterangepicker.css" rel="stylesheet">
+
+<div class="content-page">
+    <div class="content">
+
+        <!-- Start Content-->
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-12">
+                    <div class="p-2">
+                        <form class="form-horizontal" role="form">
+                            <div class="form-group row">
+                                <label class="col-md-2 col-form-label" for="simpleinput">Nombre del evento</label>
+                                <div class="col-md-10">
+                                    <input type="text" id="simpleinput" class="form-control" value="Bingo">
+                                </div>
+                            </div>
+                            <div class="form-group row">
+                                <label class="col-md-2 col-form-label" for="example-placeholder">Lugar del evento</label>
+                                <div class="col-md-10">
+                                    <input type="text" id="example-placeholder" class="form-control" value="Hogar Baik">
+                                </div>
+                            </div>
+                            <div class="form-group row">
+                                <label class="col-md-2 col-form-label" for="example-textarea">Descripción del evento</label>
+                                <div class="col-md-10">
+                                    <textarea class="form-control" rows="5" id="example-textarea">Primer bingo del hogar Baik para recaudar fondos para el nuevo dormitorio de los niños, te esperamos! </textarea>
+                                </div>
+                            </div>
+                            <div class="form-group row">
+                                <label class="col-md-2 col-form-label" for="example-helping">Imagen del evento</label>
+                                <div class="col-md-10">
+                                    <input type="file" class="form-control" id="example-fileinput">
+                                    <span class="help-block"><small>Resulucion de la imagen recomendada: .</small></span>
+                                </div>
+                            </div>
+                            <div class="form-group row">
+                                <label class="col-md-2 col-form-label" for="example-date">Fecha del evento</label>
+                                <div class="col-md-10">
+                                    <input class="form-control" id="example-date" type="date" name="date" value="25/8/2021">
+                                </div>
+                            </div>
+                            <div class="form-group row">
+                                <label class="col-md-2 col-form-label" for="example-time">Hora del evento</label>
+                                <div class="col-md-10">
+                                    <div class="input-group">
+                                        <input id="timepicker" type="text" class="form-control">
+                                        <div class="input-group-append">
+                                            <span class="input-group-text"><i class="mdi mdi-clock-outline"></i></span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="form-group row">
+                                <label class="col-md-2 col-form-label">Teléfono del evento</label>
+                                <div class="col-md-10">
+                                    <input class="form-control" type="tel" name="tel" value="2525-8213">
+                                </div>
+                            </div>
+
+                        </form>
+                    </div>
+                </div>
+
+            </div>
+
+        
+            <div class="col-md-10">
+                <input id="btnActualizarActividad" type="submit" value="Actualizar actividad" class="btn btn-bordered-primary waves-effect  width-md waves-light"  onclick="location.href='/Actividades/VerActividades'" />
+                <input id="btnEliminarActividad" type="submit" value="Eliminar actividad" class="btn btn-bordered-danger waves-effect  width-md waves-light" />
+            </div>
+
+        </div>
+    </div>
+</div>
+<!-- Vendor js -->
+<script src="~/assets/js/vendor.min.js"></script>
+
+<!-- Plugins Js -->
+<script src="~/assets/libs/bootstrap-tagsinput/bootstrap-tagsinput.min.js"></script>
+<script src="~/assets/libs/switchery/switchery.min.js"></script>
+<script src="~/assets/libs/multiselect/jquery.multi-select.js"></script>
+<script src="~/assets/libs/jquery-quicksearch/jquery.quicksearch.min.js"></script>
+
+<script src="~/assets/libs/select2/select2.min.js"></script>
+<script src="~/assets/libs/bootstrap-touchspin/jquery.bootstrap-touchspin.min.js"></script>
+<script src="~/assets/libs/jquery-mask-plugin/jquery.mask.min.js"></script>
+<script src="~/assets/libs/moment/moment.js"></script>
+<script src="~/assets/libs/bootstrap-timepicker/bootstrap-timepicker.min.js"></script>
+<script src="~/assets/libs/bootstrap-colorpicker/bootstrap-colorpicker.min.js"></script>
+<script src="~/assets/libs/bootstrap-datepicker/bootstrap-datepicker.min.js"></script>
+<script src="~/assets/libs/bootstrap-daterangepicker/daterangepicker.js"></script>
+<script src="~/assets/libs/bootstrap-maxlength/bootstrap-maxlength.min.js"></script>
+
+<!-- Init js-->
+<script src="~/assets/js/pages/form-advanced.init.js"></script>
+
+<!-- App js -->
+<script src="~/assets/js/app.min.js"></script>

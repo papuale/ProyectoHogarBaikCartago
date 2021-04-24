@@ -1,0 +1,83 @@
+﻿
+@{
+    ViewData["Title"] = "VerControlProyectos";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+<div class="content-page">
+    <div class="content">
+
+        <!-- Start Content-->
+        <div class="container-fluid">
+
+
+
+        
+            <div class="row">
+                <div class="col-12">
+                    <div class="card-box">
+                        <div class="form-group row">
+                            <label class="col-md-2 col-form-label" for="cedulaNino">Ingrese el nombre del proyecto</label>
+                            <div class="col-md-4">
+                                <input type="text" id="cedulaNino" class="form-control">
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-sm-10">
+                                <h4>Control proyecto: </h4>
+                            </div>
+
+                            <div class="col-sm-2">
+
+                                <input id="Submit1" type="submit" value="Agregar control" class="btn btn-bordered-success waves-effect  width-md waves-light" onclick="location.href='/Proyectos/ControlProyectos'" />
+                            </div>
+
+                        </div>
+                        <br />
+                        <table id="datatable-buttons" class="table table-striped table-bordered dt-responsive nowrap">
+                            <thead>
+                                <tr>
+                                    <th style="text-align:center">Nombre del proyecto</th>
+                                    <th style="text-align:center">Materiales</th>
+                                    <th style="text-align:center">Servicios externos</th>
+                                    <th style="text-align:center">Duracion del proyecto</th>
+                                    <th style="text-align:center">Fecha de inicio</th>
+                                    <th style="text-align:center">Fecha de finalización</th>
+
+
+                                </tr>
+                            </thead>
+
+
+                            <tbody>
+                                <tr>
+                                    <td style="text-align:center">Reparación Techo</td>
+                                    <td style="text-align:center">
+                                        1. Cemento
+                                        2. Laminas
+                                    </td>
+                                    <td style="text-align:center">Cemaco</td>
+                                    <td style="text-align:center">1 año y 3 meses</td>
+                                    <td style="text-align:center">25/03/2021</td>
+                                    <td style="text-align:center">25/06/2022</td>
+
+
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+            <!-- end row -->
+
+
+
+
+        </div> <!-- container-fluid -->
+
+    </div> <!-- content -->
+
+
+</div>

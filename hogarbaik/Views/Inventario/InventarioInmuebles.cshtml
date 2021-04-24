@@ -1,0 +1,97 @@
+﻿
+@{
+    ViewData["Title"] = "Inventario Inmuebles";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+
+
+
+
+        <!-- Start Page Content here -->
+        <!-- ============================================================== -->
+
+        <div class="content-page">
+            <div class="content">
+
+                <!-- Start Content-->
+                <div class="container-fluid">
+
+
+
+
+                    <div class="row">
+                        <div class="col-12">
+                            <div class="card-box">
+
+                                <div class="row">
+                                    <div class="col-sm-10">
+                                        <h4>Inventario de Inmuebles</h4>
+                                    </div>
+
+                                    <div class="col-sm-2">
+                                        <input id="Submit1" type="submit" value="Agregar" class="btn btn-bordered-success waves-effect  width-md waves-light" onclick="location.href='/Inventario/FormularioInmuebles'" />
+                                       
+                                    </div>
+
+                                </div>
+                                <br />
+                                <table id="datatable-buttons" class="table table-striped table-bordered dt-responsive nowrap">
+                                    <thead>
+                                        <tr>
+                                            <th style="text-align:center">Código</th>
+                                            <th style="text-align:center">Nombre</th>
+                                            <th style="text-align:center">Descripción</th>
+                                            <th style="text-align:center">Cantidad</th>
+                                            <th style="text-align:center">Serie</th>
+                                            <th style="text-align:center">Valor</th>
+                                            <th style="text-align:center">Fecha de adquisición</th>
+                                            <th style="text-align:center">Adquisición</th>
+                                            <th style="text-align:center"></th>
+
+                                        </tr>
+                                    </thead>
+
+
+                                    <tbody>
+                                        <tr>
+                                            <td style="text-align:center">01</td>
+                                            <td style="text-align:center">Mesa</td>
+                                            <td style="text-align:center">Mesa para comer</td>
+                                            <td style="text-align:center">3</td>
+                                            <td style="text-align:center">N/A</td>
+                                            <td style="text-align:center">30000</td>
+                                            <td style="text-align:center">25/03/2021</td>
+                                            <td style="text-align:center">Donación</td>
+                                            <td style="text-align:center">
+                                                <input id="btnVerInventario" type="submit" value="Ver Inventario" class="btn btn-bordered-info waves-effect  width-md waves-light" onclick="location.href='/Inventario/ModificarInmuebles'" />
+                                               
+                                            </td>
+
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- end row -->
+
+
+
+
+                </div> <!-- container-fluid -->
+
+            </div> <!-- content -->
+
+
+        </div>
+
+        <!-- ============================================================== -->
+        <!-- End Page content -->
+        <!-- ============================================================== -->
+
+
+   
+
