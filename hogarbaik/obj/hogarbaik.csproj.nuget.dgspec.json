@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\Desktop\\Analisis\\ProyectoHogarBaikCartago\\hogarbaik\\hogarbaik.csproj": {}
+    "C:\\Users\\Usuario\\Desktop\\HOGAR BAIK DE CARTAGO\\ProyectoHogarBaikCartago\\hogarbaik\\hogarbaik.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\Desktop\\Analisis\\ProyectoHogarBaikCartago\\hogarbaik\\hogarbaik.csproj": {
+    "C:\\Users\\Usuario\\Desktop\\HOGAR BAIK DE CARTAGO\\ProyectoHogarBaikCartago\\hogarbaik\\hogarbaik.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\Analisis\\ProyectoHogarBaikCartago\\hogarbaik\\hogarbaik.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\HOGAR BAIK DE CARTAGO\\ProyectoHogarBaikCartago\\hogarbaik\\hogarbaik.csproj",
         "projectName": "hogarbaik",
-        "projectPath": "C:\\Users\\Usuario\\Desktop\\Analisis\\ProyectoHogarBaikCartago\\hogarbaik\\hogarbaik.csproj",
+        "projectPath": "C:\\Users\\Usuario\\Desktop\\HOGAR BAIK DE CARTAGO\\ProyectoHogarBaikCartago\\hogarbaik\\hogarbaik.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Desktop\\Analisis\\ProyectoHogarBaikCartago\\hogarbaik\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\Desktop\\HOGAR BAIK DE CARTAGO\\ProyectoHogarBaikCartago\\hogarbaik\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -44,9 +44,19 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[3.1.5, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[5.0.0, )"
             }
           },
           "imports": [
