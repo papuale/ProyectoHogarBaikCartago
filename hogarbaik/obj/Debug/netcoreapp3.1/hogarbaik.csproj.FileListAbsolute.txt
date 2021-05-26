@@ -1623,3 +1623,353 @@ C:\Users\Usuario\Desktop\HOGAR BAIK DE CARTAGO\ProyectoHogarBaikCartago\hogarbai
 C:\Users\Usuario\Desktop\HOGAR BAIK DE CARTAGO\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\hogarbaik.dll
 C:\Users\Usuario\Desktop\HOGAR BAIK DE CARTAGO\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\hogarbaik.pdb
 C:\Users\Usuario\Desktop\HOGAR BAIK DE CARTAGO\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\hogarbaik.genruntimeconfig.cache
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\bundleconfig.json
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\hogarbaik.exe
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\hogarbaik.deps.json
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\hogarbaik.runtimeconfig.json
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\hogarbaik.runtimeconfig.dev.json
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\hogarbaik.dll
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\hogarbaik.pdb
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\hogarbaik.Views.dll
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\hogarbaik.Views.pdb
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\hogarbaik.csprojAssemblyReference.cache
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\hogarbaik.AssemblyInfoInputs.cache
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\hogarbaik.AssemblyInfo.cs
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\hogarbaik.csproj.CoreCompileInputs.cache
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\hogarbaik.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\hogarbaik.RazorAssemblyInfo.cache
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\hogarbaik.RazorAssemblyInfo.cs
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\staticwebassets\hogarbaik.StaticWebAssets.Manifest.cache
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\staticwebassets\hogarbaik.StaticWebAssets.xml
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\scopedcss\bundle\hogarbaik.styles.css
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\hogarbaik.TagHelpers.input.cache
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\hogarbaik.TagHelpers.output.cache
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\hogarbaik.RazorCoreGenerate.cache
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\Razor\Pages\_Layout.cshtml.g.cs
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\Razor\Views\ActividadesCliente\ActividadesCliente.cshtml.g.cs
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\Razor\Views\Actividades\Actividades.cshtml.g.cs
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\Razor\Views\Actividades\EditarActividades.cshtml.g.cs
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\Razor\Views\Actividades\VerActividades.cshtml.g.cs
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\Razor\Views\Bitacoras\BitacoraInicio.cshtml.g.cs
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\Razor\Views\Dashboard\Dashboard.cshtml.g.cs
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\Razor\Views\InicioSesion\Index.cshtml.g.cs
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\Razor\Views\Inicio\Inicio.cshtml.g.cs
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\Razor\Views\Inventario\FormularioAlimentacion.cshtml.g.cs
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\Razor\Views\Inventario\FormularioAlimentacionLimpieza.cshtml.g.cs
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\Razor\Views\Inventario\FormularioInmuebles.cshtml.g.cs
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\Razor\Views\Inventario\FormularioLimpieza.cshtml.g.cs
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\Razor\Views\Inventario\FormularioMuebles.cshtml.g.cs
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\Razor\Views\Inventario\InventarioAlimentacion.cshtml.g.cs
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\Razor\Views\Inventario\InventarioInmuebles.cshtml.g.cs
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\Razor\Views\Inventario\InventarioLimpieza.cshtml.g.cs
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\Razor\Views\Inventario\InventarioMuebles.cshtml.g.cs
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\Razor\Views\Inventario\ModificarAlimentacioLimpieza.cshtml.g.cs
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\Razor\Views\Inventario\ModificarAlimentacion.cshtml.g.cs
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\Razor\Views\Inventario\ModificarInmuebles.cshtml.g.cs
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\Razor\Views\Inventario\ModificarLimpieza.cshtml.g.cs
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\Razor\Views\Inventario\ModificarMuebles.cshtml.g.cs
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\Razor\Views\Ninos\Educativo.cshtml.g.cs
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\Razor\Views\Ninos\Medico.cshtml.g.cs
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\Razor\Views\Ninos\NinosActivos.cshtml.g.cs
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\Razor\Views\Ninos\NinosInactivos.cshtml.g.cs
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\Razor\Views\Ninos\NuevoExpediente.cshtml.g.cs
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\Razor\Views\Ninos\VerExpediente.cshtml.g.cs
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\Razor\Views\Personal\Empleado.cshtml.g.cs
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\Razor\Views\Personal\FormularioEmpleado.cshtml.g.cs
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\Razor\Views\Personal\ModificarEmpleado.cshtml.g.cs
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\Razor\Views\Proyectos\ControlProyectos.cshtml.g.cs
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\Razor\Views\Proyectos\FormularioProyecto.cshtml.g.cs
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\Razor\Views\Proyectos\ModificarProyecto.cshtml.g.cs
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\Razor\Views\Proyectos\Proyectos.cshtml.g.cs
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\Razor\Views\Proyectos\VerControlProyectos.cshtml.g.cs
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\Razor\Views\Reportes\Reportes.cshtml.g.cs
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutBlanco.cshtml.g.cs
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutFooter.cshtml.g.cs
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutFront.cshtml.g.cs
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\Razor\Views\Socio\FormularioSocio.cshtml.g.cs
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\Razor\Views\Socio\Solicitudes.cshtml.g.cs
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\Razor\Views\Socio\SolicitudesAprobadas.cshtml.g.cs
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\Razor\Views\Socio\SolicitudesDenegadas.cshtml.g.cs
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\hogarbaik.RazorTargetAssemblyInfo.cache
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\hogarbaik.RazorTargetAssemblyInfo.cs
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\hogarbaik.Views.pdb
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\hogarbaik.csproj.CopyComplete
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\hogarbaik.dll
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\hogarbaik.pdb
+C:\Users\mauro\Desktop\Proyecto HB\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\hogarbaik.genruntimeconfig.cache
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\bundleconfig.json
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\hogarbaik.exe
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\hogarbaik.deps.json
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\hogarbaik.runtimeconfig.json
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\hogarbaik.runtimeconfig.dev.json
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\hogarbaik.dll
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\hogarbaik.pdb
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\hogarbaik.Views.dll
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\hogarbaik.Views.pdb
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\hogarbaik.csprojAssemblyReference.cache
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\hogarbaik.AssemblyInfoInputs.cache
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\hogarbaik.AssemblyInfo.cs
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\hogarbaik.csproj.CoreCompileInputs.cache
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\hogarbaik.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\hogarbaik.RazorAssemblyInfo.cache
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\hogarbaik.RazorAssemblyInfo.cs
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\staticwebassets\hogarbaik.StaticWebAssets.Manifest.cache
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\staticwebassets\hogarbaik.StaticWebAssets.xml
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\scopedcss\bundle\hogarbaik.styles.css
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\hogarbaik.TagHelpers.input.cache
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\hogarbaik.TagHelpers.output.cache
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\hogarbaik.RazorCoreGenerate.cache
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\Razor\Pages\_Layout.cshtml.g.cs
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\Razor\Views\ActividadesCliente\ActividadesCliente.cshtml.g.cs
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\Razor\Views\Actividades\Actividades.cshtml.g.cs
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\Razor\Views\Actividades\EditarActividades.cshtml.g.cs
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\Razor\Views\Actividades\VerActividades.cshtml.g.cs
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\Razor\Views\Bitacoras\BitacoraInicio.cshtml.g.cs
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\Razor\Views\Dashboard\Dashboard.cshtml.g.cs
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\Razor\Views\InicioSesion\Index.cshtml.g.cs
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\Razor\Views\Inicio\Inicio.cshtml.g.cs
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\Razor\Views\Inventario\FormularioAlimentacion.cshtml.g.cs
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\Razor\Views\Inventario\FormularioAlimentacionLimpieza.cshtml.g.cs
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\Razor\Views\Inventario\FormularioInmuebles.cshtml.g.cs
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\Razor\Views\Inventario\FormularioLimpieza.cshtml.g.cs
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\Razor\Views\Inventario\FormularioMuebles.cshtml.g.cs
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\Razor\Views\Inventario\InventarioAlimentacion.cshtml.g.cs
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\Razor\Views\Inventario\InventarioInmuebles.cshtml.g.cs
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\Razor\Views\Inventario\InventarioLimpieza.cshtml.g.cs
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\Razor\Views\Inventario\InventarioMuebles.cshtml.g.cs
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\Razor\Views\Inventario\ModificarAlimentacioLimpieza.cshtml.g.cs
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\Razor\Views\Inventario\ModificarAlimentacion.cshtml.g.cs
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\Razor\Views\Inventario\ModificarInmuebles.cshtml.g.cs
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\Razor\Views\Inventario\ModificarLimpieza.cshtml.g.cs
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\Razor\Views\Inventario\ModificarMuebles.cshtml.g.cs
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\Razor\Views\Ninos\Educativo.cshtml.g.cs
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\Razor\Views\Ninos\Medico.cshtml.g.cs
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\Razor\Views\Ninos\NinosActivos.cshtml.g.cs
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\Razor\Views\Ninos\NinosInactivos.cshtml.g.cs
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\Razor\Views\Ninos\NuevoExpediente.cshtml.g.cs
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\Razor\Views\Ninos\VerExpediente.cshtml.g.cs
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\Razor\Views\Personal\Empleado.cshtml.g.cs
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\Razor\Views\Personal\FormularioEmpleado.cshtml.g.cs
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\Razor\Views\Personal\ModificarEmpleado.cshtml.g.cs
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\Razor\Views\Proyectos\ControlProyectos.cshtml.g.cs
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\Razor\Views\Proyectos\FormularioProyecto.cshtml.g.cs
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\Razor\Views\Proyectos\ModificarProyecto.cshtml.g.cs
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\Razor\Views\Proyectos\Proyectos.cshtml.g.cs
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\Razor\Views\Proyectos\VerControlProyectos.cshtml.g.cs
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\Razor\Views\Reportes\Reportes.cshtml.g.cs
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutBlanco.cshtml.g.cs
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutFooter.cshtml.g.cs
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutFront.cshtml.g.cs
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\Razor\Views\Socio\FormularioSocio.cshtml.g.cs
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\Razor\Views\Socio\Solicitudes.cshtml.g.cs
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\Razor\Views\Socio\SolicitudesAprobadas.cshtml.g.cs
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\Razor\Views\Socio\SolicitudesDenegadas.cshtml.g.cs
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\hogarbaik.RazorTargetAssemblyInfo.cache
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\hogarbaik.RazorTargetAssemblyInfo.cs
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\hogarbaik.Views.pdb
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\hogarbaik.csproj.CopyComplete
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\hogarbaik.dll
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\hogarbaik.pdb
+C:\Users\mauro\Desktop\ProyectoHogarBaikCartago\hogarbaik\obj\Debug\netcoreapp3.1\hogarbaik.genruntimeconfig.cache
